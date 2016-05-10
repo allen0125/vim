@@ -5,7 +5,8 @@
 
 ## 插件管理器：vim-plug
 * 采用vim-plug作为插件管理器
-* Unix安装vim-plug:
+* Unix安装vim-plug:curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 
 ## 插件列表：
 * klen/python-mode
