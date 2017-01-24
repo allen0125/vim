@@ -4,7 +4,6 @@ Plug 'klen/python-mode'
 Plug 'bling/vim-airline'
 Plug 'scrooloose/nerdtree'
 Plug 'bigeagle/molokai'
-Plug 'Valloric/YouCompleteMe'
 call plug#end()
 
 " init bling/vim-airline 
