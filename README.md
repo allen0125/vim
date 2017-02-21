@@ -1,8 +1,7 @@
 # Allen的vim配置及说明备忘
 ## 先po图
 
-![image](https://github.com/allen0125/vim/blob/master/%E5%B1%8F%E5%B9%9
-5%E5%BF%AB%E7%85%A7%202017-02-21%20%E4%B8%8A%E5%8D%8810.14.39.png)
+![image](https://github.com/allen0125/vim/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-02-21%20%E4%B8%8A%E5%8D%8810.14.39.png)
 
 ## 插件管理器：vim-plug
 * 采用vim-plug作为插件管理器
