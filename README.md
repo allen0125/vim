@@ -13,6 +13,14 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 
 ```
+## 使用方法：
+* shell中复制上面的命令安装Vim-Plug
+* clone本项目
+* 将vimrc拷贝到～目录下重命名为.vimrc
+* 启动Vim，执行PlugInstall命令即可
+
+
+# 可能遇到的依赖问题：ctages
 
 ## 快捷键：
 * ctrl+F2 open/close nerdtree
