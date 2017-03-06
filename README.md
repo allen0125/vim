@@ -19,8 +19,7 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 * 将vimrc拷贝到～目录下重命名为.vimrc
 * 启动Vim，执行PlugInstall命令即可
 
-
-* 可能遇到的依赖问题：ctages *
+*可能遇到的依赖问题：ctages*
 
 ## 快捷键：
 * ctrl+F2 open/close nerdtree
